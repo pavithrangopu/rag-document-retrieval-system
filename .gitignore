@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.venv/
+
+# Backend
+backend/__pycache__/
+backend/venv/
+backend/uploads/
+backend/vector_stores/
+backend/.env
+
+# Node
+node_modules/
+.next/
+frontend/.next/
+out/
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
