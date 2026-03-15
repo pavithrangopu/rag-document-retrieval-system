@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🧠 DocuMind AI
@@ -240,3 +241,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 **Built with ❤️ using RAG, FAISS, and modern web technologies**
 
 </div>
+=======
+# rag-document-retrieval-system
+An AI-powered Retrieval Augmented Generation (RAG) system that allows users to query documents and retrieve accurate answers using vector embeddings and LLMs.
+>>>>>>> 5069b4f8f797c81ec6541b9fd0c9b6a31a68a325
